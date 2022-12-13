@@ -1,0 +1,44 @@
+.width100percent{
+    width: 100%;
+}
+.table1lengths{
+    height: 20px; width: 50%;
+}
+.width15p{
+    width: 15%;
+    
+}
+.colorblue{
+    color: blue;
+}
+.fontbold{
+    font-weight: bold;
+}
+.percentage20{
+     height: 20px;width: 20%
+}
+.alinments{
+    width: 12%;vertical-align: top;
+}
+.width3P{
+    width: 3%
+}
+
+.dottedline{
+    border-top: dotted 1px ;
+}
+.height20p{
+    height: 20px
+}
+.width30p{
+    width: 30%
+}
+.width85p{
+    width: 85%
+}
+.align{
+    vertical-align: top;
+}
+.width55p{
+    width: 55%;
+}

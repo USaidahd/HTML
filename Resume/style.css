@@ -1,0 +1,49 @@
+.width100percent {
+    width: 100%;
+}
+
+.contectdetails {
+    font-size: large;
+    font-weight: bold;
+    text-align: left;
+    width: 98%;
+    vertical-align: top;
+}
+
+.contectdetailLink {
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    text-align: left;
+    width: 98%;
+    vertical-align: top
+}
+
+.width3percent {
+    style= "width: 3%; 
+    style="width: 3%;
+    style="width: 3%;
+
+}
+
+.width12percent {
+    width: 12%;
+    vertical-align: top;
+    width: 12%;
+    vertical-align: top;
+    width: 12%;
+    vertical-align: top;
+}
+
+
+.width85percent {
+    style=width: 85%
+    style=width: 85%
+    style=width: 85%
+}
+.alinments {
+    width: 21%;
+    vertical-align: top;
+    width: 21%;
+    vertical-align: top;
+}
