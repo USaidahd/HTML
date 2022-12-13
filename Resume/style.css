@@ -20,30 +20,19 @@
 }
 
 .width3percent {
-    style= "width: 3%; 
-    style="width: 3%;
-    style="width: 3%;
-
-}
+    width: 3%; 
+   }
 
 .width12percent {
     width: 12%;
-    vertical-align: top;
-    width: 12%;
-    vertical-align: top;
-    width: 12%;
-    vertical-align: top;
+    vertical-align:top
 }
 
 
 .width85percent {
-    style=width: 85%
-    style=width: 85%
-    style=width: 85%
+width: 85%
 }
 .alinments {
-    width: 21%;
-    vertical-align: top;
     width: 21%;
     vertical-align: top;
 }
